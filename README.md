@@ -32,6 +32,8 @@
     <strong><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji>Tech Stack<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji></strong><br>
     <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji> using as main and used to use one at least
 </p>
+
+<p align="center" dir="auto">
 <span>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"  align="center"> 
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"  align="center">
@@ -40,5 +42,5 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  align="center">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"  align="center">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  align="center">
-
 </span>
+</p>
