@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Choizaewoo%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Choizaewoo%20&fontSize=70)
 
 
 ### 반갑습니다 👋
