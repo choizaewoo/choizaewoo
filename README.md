@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 ### 반갑습니다 👋
 <td align="center"> 제 이름은 최재우 입니다 😄 </td><br>
 <td align="center"> 현재 폴리텍 분당융합기술교육원에서 코딩을 배우고 있습니다!🌱</td><br>
