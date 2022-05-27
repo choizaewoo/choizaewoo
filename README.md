@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <strong><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji>Tech Stack<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji></strong><br>
     <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji>used as the main
 </p>
-<span>
+<span align="center">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
