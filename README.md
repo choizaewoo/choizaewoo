@@ -1,21 +1,18 @@
 ### 반갑습니다 👋
-제 이름은 최재우 입니다.
-현재 폴리텍 분당융합기술교육원에서 코딩을 배우고 있습니다!
+제 이름은 최재우 입니다 😄 
+현재 폴리텍 분당융합기술교육원에서 코딩을 배우고 있습니다!🌱
 
-<!--
-**choizaewoo/choizaewoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on empty base.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 
+🌱
+👯 
+🤔
+💬
+📫 
+😄 
+⚡
+
 
 <p align="center" dir="auto">
     <strong><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji>Tech Stack<g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒️</g-emoji></strong><br>
