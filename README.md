@@ -1,4 +1,5 @@
-### Hi there 👋
+### 반갑습니다 👋
+저는 최재우 입니다. 한국폴리텍 분당융합기술교욱원에서 코딩을 배우고 있습니다. 
 
 <!--
 **choizaewoo/choizaewoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
