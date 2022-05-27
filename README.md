@@ -1,21 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Very%20WelCome!%20&fontSize=70)
+
+<img src="https://camo.githubusercontent.com/4bb92fbe915e0c34897623dc35c5d69c8cbb5af1280e392a826a171f384c4d82/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6175746f266865696768743d3330302673656374696f6e3d68656164657226746578743d77656c636f6d6526666f6e7453697a653d393026616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333826646573633d50676d4a756e277325323047697448756225323050726f66696c652664657363416c69676e593d35312664657363416c69676e3d3632" alt="header" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=300&amp;section=header&amp;text=welcome&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=choizaewoo%20GitHub%20Profile&amp;descAlignY=51&amp;descAlign=62" style="max-width: 100%;" align="center">
+
+
 <!-- 🔭 
 🌱
 👯 
 🤔
-
 📫 
 😄 
 ⚡ -->
 <p align="center" dir="auto">
-
-### 반갑습니다 👋
+👋반갑습니다👋
 <td align="center"> 제 이름은 최재우 입니다 😄 </td><br>
-<td align="center"> 현재 폴리텍 분당융합기술교육원에서 코딩을 배우고 있습니다!🌱</td><br>
+<td align="center"> 현재 폴리텍 분당융합기술교육원에서 코딩을 배우고 있습니다🌱</td><br>
 <br>
 <br>
 </p>
-
 
 <p align="center" dir="auto">
     <strong><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji>SNS list<g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji></strong><br>
