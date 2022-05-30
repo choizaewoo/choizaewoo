@@ -13,19 +13,12 @@
 😄 
 ⚡ -->
 <p align="center" dir="auto">
-👋반갑습니다👋
-<td align="center"> 제 이름은 최재우 입니다 😄 </td><br>
-<td align="center"> 현재 폴리텍 분당융합기술교육원에서 코딩을 배우고 있습니다🌱</td><br>
+반갑습니다👋
+<td align="center"> 제 이름은 최재우 입니다. </td><br>
+<td align="center"> 현재 폴리텍 분당융합기술교육원에서 코딩을 배우고 있습니다.</td><br>
 <br>
 <br>
-</p>
-
-<p align="center" dir="auto">
-    <strong><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji>SNS list<g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji></strong><br>
-</p> 
-    
-    
-    
+</p>    
     
 <p align="center" dir="auto">
    <a href="https://velog.io/@choizaewoo">
