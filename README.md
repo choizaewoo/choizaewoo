@@ -14,7 +14,7 @@
 ⚡ -->
 <p align="center" dir="auto">
 반갑습니다👋
-<td align="center"> 제 이름은 최재우 입니다. </td><br>
+<td align="center"> 개발 공부 중인 최재우 입니다. </td><br>
 <td align="center"> </td><br>
 <br>
 <br>
