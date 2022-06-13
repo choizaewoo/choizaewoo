@@ -14,17 +14,11 @@
 ⚡ -->
 <p align="center" dir="auto">
 반갑습니다👋
-<td align="center"> 개발 공부 중인 최재우 입니다. </td><br>
+<td align="center"> 코딩을 공부중인 최재우 입니다. </td><br>
 <td align="center"> </td><br>
-<br>
 <br>
 </p>    
     
-<p align="center" dir="auto">
-   <a href="https://velog.io/@choizaewoo">
-   <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@choizaewoo"/></a> 
- </p>
-
 
 <p align="center" dir="auto">
     <a href="https://choizaewoo.github.io/">
